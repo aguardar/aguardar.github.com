@@ -1,0 +1,13 @@
+markdown: rdiscount
+permalink: /:year/:month/:day/:title/
+url: http://aguardar.github.com
+author: aguardar
+email: zk_michael@qq.com
+duoshuo: aguardar
+github:aguardar
+pygments: true
+safe: true
+paginate: 20
+about: 个人博客
+auto: true
+
