@@ -6,7 +6,7 @@ categories: 硬件
 tags:  硬件介绍
 ---
 
->BeagleBone Black是一个可以在十秒之内加载linux的DIY迷你主板其硬件配置包括1GHz ARM Cortex-A8 处理器，3D图形加速器，一副PRU 32位RISC CPU，2GB ROM，MicroSD卡槽和512MB RAM。同时，Beaglebone Black的接口也相当丰富，包括USB接口、以太网接口、Micro-HDMI接口和两个46针接口。默认的系统是Angstrom Linux
+>BeagleBoneBlack是一个可以在十秒之内加载linux的DIY迷你主板其硬件配置包括1GHz ARM Cortex-A8 处理器，3D图形加速器，一副PRU 32位RISC CPU，2GB ROM，MicroSD卡槽和512MB RAM。同时，Beaglebone Black的接口也相当丰富，包括USB接口、以太网接口、Micro-HDMI接口和两个46针接口。默认的系统是Angstrom Linux
 
 ##BeagleBone Black使用方法
 使用的方法总共有三种：
@@ -24,3 +24,8 @@ tags:  硬件介绍
 
 ##BeagleBone编程
 USB接上之后打开浏览器输入192.168.7.2然后回车，打开的网页中给出了javascript编程控制硬件各个接口的方式，线路连接也给了出来。教程很详细
+
+
+**最后感谢送我板子的好友**
+
+2014-7-13
