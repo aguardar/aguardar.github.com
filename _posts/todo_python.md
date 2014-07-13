@@ -2,7 +2,6 @@
 date: 2014.7.12
 layout: post
 title: pythoner知识整理
-thread: 164
 categories: python
 tags:  python ，软件
 ---
