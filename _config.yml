@@ -5,9 +5,9 @@ name: aguardar blog
 author: aguardar
 email: zk_michael@qq.com
 duoshuo: aguardar
-weibo: 2779129061
+#weibo: 2779129061
 github: aguardar
 pygments: true
 safe: true
 paginate: 20
-about: "这里是 aguardar 的个人博客"
+about: "行走于软件和硬件之间的技术爱好者，别人说太猥琐，我笑他人看不穿"
