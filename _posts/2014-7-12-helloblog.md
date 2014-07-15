@@ -12,6 +12,9 @@ tags:  日志 测试
 >* 对自己的知识进行积累沉淀   
 >* 改掉自己眼高手低的恶习   
 >* 强化自己写文档的能力和水平  
+------  
+附一下支持github markdown语法的在线编辑器[dillinger.io]
 
 
 2014-7-12
+[dillinger.io]:http://dillinger.io/#
