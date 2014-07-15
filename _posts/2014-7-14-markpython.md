@@ -10,7 +10,6 @@ tags:  python 软件
 
 范例：  
 
-范例：  
 
 ```python      
 #!/usr/bin/python
