@@ -34,7 +34,7 @@ def hello():
 print hello()
 ```
 输出结果：
-```restlt 
+```restlt        
 <b><i>hello world</i></b>
 ```
 
