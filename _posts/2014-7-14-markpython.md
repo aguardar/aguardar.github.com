@@ -36,7 +36,6 @@ print hello()
 输出结果：
 ```restlt 
 <b><i>hello world</i></b>
-
 ```
 
 
