@@ -34,14 +34,14 @@ def hello():
 print hello()
 ```
 输出结果：
-```restlt        
+```restlt      
 <b><i>hello world</i></b>
 ```
 
 
 ## import this   
 作为一个pythoner必须知道的[The Zen of python]，python设计的指导原则[PEP20]
-``` zen
+```zen      
 The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
